@@ -18,19 +18,19 @@
 
 ### 📬 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-jangir-294a50333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/ROHITJANGIRRJ" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.instagram.com/mr.bbd_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/rohit-jangir-294a50333/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+  <a href="https://x.com/ROHITJANGIRRJ" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
+  <a href="https://www.instagram.com/mr.bbd_/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
 </p>
 
 ---
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammrbbd&show_icons=true&theme=rose&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrbbd&layout=compact&theme=rose&hide_border=true" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iammrbbd&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrbbd&layout=compact&hide_border=true" alt="Top Languages" width="49%"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammrbbd&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammrbbd&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
