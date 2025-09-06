@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/iammrbbd/raw/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.gif" alt="Header Banner"/>
-  </p>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iammrbbd&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -27,8 +27,8 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammrbbd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrbbd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iammrbbd&show_icons=true&theme=rose&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammrbbd&layout=compact&theme=rose&hide_border=true" alt="Top Languages" width="49%"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammrbbd&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
